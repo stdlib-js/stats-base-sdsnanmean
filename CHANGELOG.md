@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`2c21ab9`](https://github.com/stdlib-js/stdlib/commit/2c21ab92d51ebb70bff14002ae706de5110b92d1) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`cb0d914`](https://github.com/stdlib-js/stdlib/commit/cb0d914e7d8ec63ea70f13120f26f5c444e3e420) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`fc4a92a`](https://github.com/stdlib-js/stdlib/commit/fc4a92a4a2356e4de3026fcfcfbd6433121851a0) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`15b5f8e`](https://github.com/stdlib-js/stdlib/commit/15b5f8e3edf34b1b5501765f4bbccdbe27b4f0bc) - **refactor:** update `stats/base/sdsnanmean` native addon from C++ to C [(#4458)](https://github.com/stdlib-js/stdlib/pull/4458) _(by Vivek Maurya)_
