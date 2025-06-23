@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-09)
+## Unreleased (2025-06-23)
 
 <section class="issues">
 
@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`fe87ef3`](https://github.com/stdlib-js/stdlib/commit/fe87ef3f1d320867b195765cd1aec7800270e33e) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`25c2e85`](https://github.com/stdlib-js/stdlib/commit/25c2e855e0c63a1e778ceac3cdb10c7b2eda37b7) - **chore:** fix C lint errors [(#7278)](https://github.com/stdlib-js/stdlib/pull/7278) _(by zhanggy)_
 -   [`9f85b5d`](https://github.com/stdlib-js/stdlib/commit/9f85b5d90cb6fcaf052116cd06aa4a693757f0ec) - **test:** fix description _(by Philipp Burckhardt)_
 -   [`2c21ab9`](https://github.com/stdlib-js/stdlib/commit/2c21ab92d51ebb70bff14002ae706de5110b92d1) - **refactor:** update paths _(by Aayush Khanna)_
@@ -45,10 +46,11 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 6 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
+-   Gururaj Gurram
 -   Philipp Burckhardt
 -   Vivek Maurya
 -   zhanggy
