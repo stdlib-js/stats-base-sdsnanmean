@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-03)
+## Unreleased (2026-06-11)
 
 <section class="commits">
 
@@ -12,7 +12,7 @@
 
 <details>
 
--   [`52a160e`](https://github.com/stdlib-js/stdlib/commit/52a160e49ca32d8041b88604de65b47935b521fa) - **bench:** refactor to use dynamic memory allocation in `blas/base/sdsnanmean` [(#11604)](https://github.com/stdlib-js/stdlib/pull/11604) _(by Uday Kakade)_
+-   [`52a160e`](https://github.com/stdlib-js/stdlib/commit/52a160e49ca32d8041b88604de65b47935b521fa) - **bench:** refactor to use dynamic memory allocation in `stats/base/sdsnanmean` [(#11604)](https://github.com/stdlib-js/stdlib/pull/11604) _(by Uday Kakade)_
 
 </details>
 
